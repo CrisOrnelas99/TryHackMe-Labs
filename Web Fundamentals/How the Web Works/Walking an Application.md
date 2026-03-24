@@ -1,13 +1,23 @@
 🌐 Walking a Web Application — Study Notes
+
 🧭 Task 1: Walking an Application
+
 🔹 Web Application Review
+
 Manual web application analysis identifies security issues missed by automated tools.
+
 Focus is on observing behavior, structure, and exposed components.
+
 🔹 Built-in Browser Tools
-View Source → Displays raw client-side code returned from server.
+
+View Source → Displays raw client-side code returned from server. 
+
 Inspector → Examines and modifies live DOM elements.
+
 Debugger (Sources) → Controls and analyzes JavaScript execution.
+
 Network → Monitors HTTP/HTTPS requests and responses.
+
 🔹 Key Concept
 Client-side tools reveal hidden logic, misconfigurations, and sensitive data exposure.
 ✅ Lab Answer
